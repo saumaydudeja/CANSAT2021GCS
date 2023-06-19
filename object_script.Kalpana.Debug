@@ -1,0 +1,16 @@
+INPUT(
+./debug\bar.o
+./debug\gmap.o
+./debug\ledc.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\odometer.o
+./debug\qcustomplot.o
+./debug\qrc_resources.o
+./debug\moc_bar.o
+./debug\moc_gmap.o
+./debug\moc_ledc.o
+./debug\moc_mainwindow.o
+./debug\moc_odometer.o
+./debug\moc_qcustomplot.o
+);

@@ -1,0 +1,16 @@
+INPUT(
+./release\bar.o
+./release\gmap.o
+./release\ledc.o
+./release\main.o
+./release\mainwindow.o
+./release\odometer.o
+./release\qcustomplot.o
+./release\qrc_resources.o
+./release\moc_bar.o
+./release\moc_gmap.o
+./release\moc_ledc.o
+./release\moc_mainwindow.o
+./release\moc_odometer.o
+./release\moc_qcustomplot.o
+);
